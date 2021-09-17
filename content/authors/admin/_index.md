@@ -34,5 +34,3 @@ user_groups:
 highlight_name: true
 ---
 Mingwei Tang is now a researcher in Zhejiang University.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
