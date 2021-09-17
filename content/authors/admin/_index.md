@@ -2,12 +2,16 @@
 title: Mingwei Tang
 role: Researcher in Zhejiang University
 avatar_filename: 头像.bmp
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: "My research interests include: Micro-/nanophotonic, including optical
+  waveguides, nanowire, surface plasmon polaritons (SPPs), hyperbolic
+  metamaterials (HMMs). On-chip devices, including on-chip sources, on-chip
+  modulator and their applications in imaging and sensing. Computational
+  imaging, including superresolution imaging, deep learning assisted imaging and
+  quantum imaging."
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Artificial Superresolution imaging
+  - Computational imaging
+  - Micro-/nanophotonic
 social:
   - icon: researchgate
     icon_pack: ai
@@ -29,8 +33,7 @@ user_groups:
   - Zhejiang University
 highlight_name: true
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Mingwei Tang is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
