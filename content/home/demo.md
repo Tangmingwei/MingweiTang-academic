@@ -6,15 +6,16 @@ widget: blank
 widget_id: https://confident-poincare-398d92.netlify.app/
 headless: true
 weight: 15
-title: Academic Page
+title: "## Welcome to Mingwei Tang's Page"
 subtitle: ""
 active: true
 design:
   columns: "1"
   background:
-    gradient_start: DarkGreen
-    gradient_end: ForestGreen
+    gradient_start: rgba(113, 103, 6, 0.29)
+    gradient_end: "#ac5bb5"
     text_color_light: true
+    image: optics.jpg
   spacing:
     padding:
       - 20px
@@ -22,4 +23,3 @@ design:
       - 20px
       - "0"
 ---
-## Welcome to Mingwei Tang's Page
