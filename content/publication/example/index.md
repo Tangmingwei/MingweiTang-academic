@@ -1,4 +1,20 @@
 ---
+title: Chip-compatible wide-field 3D nanoscopy through tunable spatial frequency
+  shift effect
+publication_types:
+  - "2"
+authors:
+  - Xiaowei Liu†
+  - Mingwei Tang†
+  - Chao Meng
+  - Chenlei Pang
+  - Cuifang Kuang
+  - Wei Chen
+  - Clemens F Kaminski
+  - Qing Yang
+  - Xu Liu
+doi: https://doi.org/10.1007/s11433-020-1682-1
+publication_short: ""
 abstract: Spatial frequency shift (SFS) microscopy with evanescent wave
   illumination shows intriguing advantages, including large field of view (FOV),
   high speed, and good modularity. However, a missing band in the spatial
@@ -21,44 +37,29 @@ abstract: Spatial frequency shift (SFS) microscopy with evanescent wave
   chip-compatible and can potentially provide a mass-producible illumination
   chip module achieving the fast, large-FOV, and deep-subwavelength 3D
   nanoscopy.
-slides: ""
-url_pdf: ""
-publication_types:
-  - "2"
-authors:
-  - Xiaowei Liu†
-  - Mingwei Tang†
-  - Chao Meng
-  - Chenlei Pang
-  - Cuifang Kuang
-  - Wei Chen
-  - Clemens F Kaminski
-  - Qing Yang
-  - Xu Liu
-author_notes:
-  - †
-  - Equal contribution
-publication: Science China Physics, Mechanics & Astronomy
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: ""
-url_source: ""
-url_video: ""
-title: Chip-compatible wide-field 3D nanoscopy through tunable spatial frequency
-  shift effect
-doi: https://doi.org/10.1007/s11433-020-1682-1
+draft: false
 featured: true
 tags: []
 categories:
   - Optics
-projects:
-  - On-chip
+slides: ""
+url_pdf: ""
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
   filename: 封面图.jpg
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
+author_notes:
+  - †
+  - Equal contribution
+publication: Science China Physics, Mechanics & Astronomy
+projects:
+  - On-chip
 date: 2021-04-12T00:00:00.000Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
