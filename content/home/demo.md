@@ -8,7 +8,7 @@ headless: true
 weight: 15
 title: "## Welcome to Mingwei Tang's Homepage"
 subtitle: ""
-active: true
+active: false
 design:
   columns: "1"
   background:
