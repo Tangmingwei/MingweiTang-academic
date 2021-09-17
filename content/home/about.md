@@ -9,4 +9,5 @@ author: admin
 design:
   background:
     image: optics.jpg
+    image_darken: 0
 ---
