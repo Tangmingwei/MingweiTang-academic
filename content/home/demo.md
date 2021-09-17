@@ -6,7 +6,7 @@ widget: blank
 widget_id: https://confident-poincare-398d92.netlify.app/
 headless: true
 weight: 15
-title: "## Welcome to Mingwei Tang's Page"
+title: "## Welcome to Mingwei Tang's Homepage"
 subtitle: ""
 active: true
 design:
