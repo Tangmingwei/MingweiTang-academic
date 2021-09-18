@@ -26,7 +26,13 @@ organizations:
   - name: Zhejiang University
     url: ""
 education:
-  courses: []
+  courses:
+    - institution: Zhejiang University
+      year: ""
+      course: Optical Engineering
+    - institution: Nanjing University of Science and Technology
+      course: Optoelectronic Information Engineering
+      year: ""
 email: tmw@zju.edu.cn
 superuser: true
 user_groups:
